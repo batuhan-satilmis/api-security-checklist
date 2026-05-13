@@ -1,7 +1,7 @@
 # API Security Checklist
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![OWASP API Top 10 (2023)](https://img.shields.io/badge/OWASP-API%20Top%2010%20(2023)-brightgreen.svg)](https://owasp.org/API-Security/editions/2023/en/0x00-introduction/)
+[![OWASP API Top 10 (2023)](https://img.shields.io/badge/OWASP-API%20Top%2010%20(2023)-brightgreen.svg)](https://owasp.org/API-Security/editions/2023/en/0x00-header/)
 
 > A practical, code-first checklist for hardening REST APIs — written from production hardening of multiple Node.js + Express SaaS APIs. Companion to my [OWASP SaaS Hardening Guide](https://github.com/batuhan-satilmis/owasp-saas-hardening-guide).
 
