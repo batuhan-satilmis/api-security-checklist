@@ -6,11 +6,11 @@
 
 - [x] Authentication chapter (HttpOnly, JWT, refresh rotation, rate limit, no enumeration)
 - [x] Authorization chapter (explicit roles, tenant from JWT, RLS)
-- [ ] Input validation chapter (Zod schemas, ORDER BY traps, file upload)
+- [x] Input validation chapter (Zod schemas, ORDER BY traps, file upload)
+- [x] Webhooks chapter (signature verification, idempotency, replay defense)
 
 ## Next (next month)
 
-- [ ] Webhooks chapter (signature verification, idempotency, replay defense)
 - [ ] Logging chapter (audit log pattern, redaction, alerting signals)
 
 ## Later
