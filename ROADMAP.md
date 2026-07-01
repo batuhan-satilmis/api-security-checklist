@@ -8,14 +8,14 @@
 - [x] Authorization chapter (explicit roles, tenant from JWT, RLS)
 - [x] Input validation chapter (Zod schemas, ORDER BY traps, file upload)
 - [x] Webhooks chapter (signature verification, idempotency, replay defense)
+- [x] Logging chapter (structured logs, redaction, append-only audit with hash chain, alerting signals)
 
 ## Next (next month)
 
-- [ ] Logging chapter (audit log pattern, redaction, alerting signals)
+- [ ] Configuration chapter (fail-fast on missing env, secrets mgmt patterns)
 
 ## Later
 
-- [ ] Configuration chapter (fail-fast on missing env, secrets mgmt patterns)
 - [ ] Rate limiting chapter (express-rate-limit, per-IP vs per-user, expensive endpoints)
 - [ ] Output / errors chapter (sanitization, request-id pattern)
 - [ ] SSRF chapter (DNS-resolution, IP allow-listing, IMDSv2)
